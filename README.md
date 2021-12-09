@@ -46,5 +46,32 @@ Untuk menghapus anggota dictionary kita dapat menggunakan perintah del ataupun f
 
 ## Gambar codingan dan output
 
-![gambar](gambar/11.jpg)
+![gambar](gambar/11.jpg) 
 ![gambar](gambar/12.jpg)
+
+
+# PRAKTIKUM 5
+
+Pertama kita membuat dictionary kosong yang nantinya akan diinput dengan data. setelah itu kita bisa menggunakan perulangan karena bisa membuat pilihan menu untuk menjalan kan program. 
+
+![gambar](gambar/1.jpg)
+
+selanjutnya menambahkan data yang di perlukan ke dalam dictionary, nim sebagai keys sedangkan nama, tugas, uts dan uas sebagai values.
+
+![gambar](gambar/14.jpg)
+![gambar](gambar/15.jpg)
+
+anda juga bisa mengubah, menghapus, serta mencari data tersebut 
+
+![gambar](gambar/16.jpg)
+
+terakhir bisa menggunakan menu K maka program akan terhenti 
+
+### OUTPUT 
+
+![gambar](gambar/17.jpg)
+![gambar](gambar/18.jpg)
+![gambar](gambar/19.jpg)
+![gambar](gambar/20.jpg
+![gambar](gambar/21.jpg)
+
