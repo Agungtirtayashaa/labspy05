@@ -72,6 +72,6 @@ terakhir bisa menggunakan menu K maka program akan terhenti
 ![gambar](gambar/17.jpg)
 ![gambar](gambar/18.jpg)
 ![gambar](gambar/19.jpg)
-![gambar](gambar/20.jpg
+![gambar](gambar/20.jpg)
 ![gambar](gambar/21.jpg)
 
